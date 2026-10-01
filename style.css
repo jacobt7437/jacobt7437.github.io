@@ -41,7 +41,7 @@ a {
 
 .bg-2 {
     background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    color: #ffff00; /* Yellow */
 }
 
 .card {
@@ -55,7 +55,7 @@ a {
 
 .bg-3 {
     background-color: #D1FFBD; /* Light Green */
-    color: #ffffff;
+    color: #ffff00; /* Yellow */
 }
 
 .bg-4 {
